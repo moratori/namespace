@@ -1,6 +1,6 @@
 # namespace
 
-defpackageを少しだけ簡単にする.
+defpackageを少しだけ簡単にする. 
 
 cl-annot使ってるのでexportとかがらくちん
 
